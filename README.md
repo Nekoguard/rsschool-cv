@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Nekoguard.github.io/rsschool-cv/cv
