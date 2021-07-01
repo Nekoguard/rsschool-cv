@@ -1,0 +1,19 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --main-orange: #e6872f;
+    --main-brown: #cfb283af;
+    --main-grey: #333;
+    --main-white: #fffffe;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
